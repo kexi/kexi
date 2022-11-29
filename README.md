@@ -1,1 +1,1 @@
-![Languages](https://wakatime.com/share/@kexi/ac7497c2-19ab-49d5-a017-b7637a1af143.svg)
+![Languages](https://wakatime.com/share/@kexi/0d9319e6-dc7a-4cd7-b735-f54da4afeb5b.svg)
