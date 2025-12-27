@@ -11,6 +11,7 @@ I'm a developer passionate about building software that makes a difference.
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,26 +22,10 @@ I'm a developer passionate about building software that makes a difference.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kexi&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=999" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kexi&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=999" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kexi&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=999&currStreakLabel=007ec6" alt="streak graph" />
-</div>
-
----
-
 ### 📫 Connect with me
 
 <div align="left">
-  <a href="https://twitter.com/kexi" target="_blank">
+  <a href="https://x.com/keisan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/kexi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
