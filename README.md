@@ -1,7 +1,5 @@
 # Hi there, I'm Kei 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ec6&background=00000000&center=false&vCenter=false&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Always+Learning)](https://git.io/typing-svg)
-
 I'm a developer passionate about building software that makes a difference.
 
 ---
